@@ -15,7 +15,7 @@ categories:
   - test2
 ---
 
-#  Subcat Test2 Content1
+# Subcat Test2 Content1
 
 What's New in Hydejack 9.1?
 
