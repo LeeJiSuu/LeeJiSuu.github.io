@@ -54,6 +54,15 @@ menu:
     url:               /devlog/
   - title:             Project
     url:               /project/
+  - title:             Subcat
+    url:               /subcat/
+    submenu:
+      - title:         Test1
+        url:           /test1/
+      - title:         Test2
+        url:           /test2/
+     
+# yml(야물) 파일은 변경 후 반드시 bundle exec jekyll serve 수행하기
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

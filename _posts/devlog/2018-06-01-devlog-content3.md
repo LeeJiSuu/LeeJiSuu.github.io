@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example Content III
+title: Devlog Content3
 description: >
   A page showing Hydejack-specific markdown content.
 image: 

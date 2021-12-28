@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hydejack, Stripe-ified
+title: Subcat Test1 Content1
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -11,10 +11,11 @@ description: >
   Version 9.1 provides minor design changes, new features, and closes multiple issues.
 invert_sidebar: true
 categories:
-  - project
+  - subcat
+  - test1
 ---
 
-# What's New in Hydejack 9.1?
+#  Subcat Test1 Content1
 
 What's New in Hydejack 9.1?
 
