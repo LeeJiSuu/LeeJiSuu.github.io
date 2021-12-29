@@ -10,13 +10,10 @@ hide_description: true
 # About
 <!--author-->
 ***
-<center>
-<span style="font-size:170%;font-weight:bold"> 이지수
-</span>
-</center>
-<center>MAJOR : COMPUTER ENGINEERING</center>
-<center>Daejin University</center>
-<center>1007, Hoguk-ro, Pocheon-si, Gyeonggi-do, Republic of Korea</center>
+<span style="font-size:170%;font-weight:bold;margin-bottom:20px;">이지수</span><br>
+MAJOR : COMPUTER ENGINEERING<br>
+Daejin University<br>
+1007, Hoguk-ro, Pocheon-si, Gyeonggi-do, Republic of Korea<br>
 
 ## Personal Data
 ---
